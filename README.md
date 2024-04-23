@@ -1,1 +1,1 @@
-# Chatbot-using-OpenAI-API
+# Chatbot-using-OpenAI-API-and-Ollama
